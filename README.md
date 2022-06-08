@@ -29,7 +29,7 @@ Exploratory Statistical analysis was used to address:
 ## Modelling
 __________________________________________________________________________________
 
-![CRISPDM](./img/CRISPDM.jpg)
+![CRISP-DM](./img/CRISP-DM.jpg)
 
 •	Mean Standard Error – MSE
 •	Polynomial Regression using an r2 score from log transformation – (fit/overfit)
