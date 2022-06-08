@@ -16,32 +16,39 @@ The information obtained will also be used to educate their staff and sales team
 __________________________________________________________________________________
 
 Exploratory Statistical analysis was used to address: 
-•	Missing data 
-•	Null values
-•	Duplicates
-•	Creation of Dummy Variables
-•	Categorical Variables
-•	Conversion of datatypes 
-•	Complex lists and dictionaries
-•	Statistical values to determine high correlation and significance
-•	Multicollinearity of Independent variables
-•	Reviewed for Normality of dataset
+
+•Missing data 
+•Null values
+•Duplicates
+•Creation of Dummy Variables
+•Categorical Variables
+•Conversion of datatypes 
+•Complex lists and dictionaries
+•Statistical values to determine high correlation and significance
+•Multicollinearity of Independent variables
+•Reviewed for Normality of dataset
+
 ## Modelling
 __________________________________________________________________________________
 
 ![CRISP-DM](./img/CRISP-DM.jpg)
 
-•	Mean Standard Error – MSE
-•	Polynomial Regression using an r2 score from log transformation – (fit/overfit)
-•	Cross Validation 
-•	Kernel Density Estimates
-•	Partition dataset to validate model using train-test splits or k-fold cross validation.
+•Mean Standard Error – MSE
+•Polynomial Regression using an r2 score from log transformation – (fit/overfit)
+•Cross Validation 
+•Kernel Density Estimates
+•Partition dataset to validate model using train-test splits or k-fold cross validation.
 
 Log Transformation 
+
 Types of Graphical representations include: 
-•	scatter plots
-•	histograms 
-•	heat map
+•scatter plots
+•histograms 
+•heat map
+placing text boxes 
+
+
+
 ##2 major features that have strong relationships with the Used Cars Dataset 
 1. 
 2. 
@@ -53,13 +60,13 @@ Types of Graphical representations include:
 
 ## Evaluation 
 Points to review: 
-•	The data reflects homoscedasticity and the residuals should follow a normal distribution
-•	From this analysis we can infer that XYZ on the basis of 
-•	The predictions are
-•	My non-bias review is: 
-•	Strong connections observed are:   
-•	(Chart type) maps the validity of ZYC
-•	I determine that the car sales in the USA for the following year are projected to be: 
+•The data reflects homoscedasticity and the residuals should follow a normal distribution
+•From this analysis we can infer that XYZ on the basis of 
+•The predictions are
+•My non-bias review is: 
+•Strong connections observed are:   
+•(Chart type) maps the validity of ZYC
+•I determine that the car sales in the USA for the following year are projected to be: 
 Make: 				Model: 
 ## For More Information 
 __________________________________________________________________________________
