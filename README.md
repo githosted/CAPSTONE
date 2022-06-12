@@ -8,7 +8,7 @@ Used Car Lot TM is a newly established local business in India. The General Mana
 
 From this analysis we intend on building a multiple linear regression model to predict what brand names will make the list.
 
-The car lot intends on using this information to ensure their business' prosperity and objectives are met. 
+The used car lot intends on using this information to ensure their business' prosperity and objectives are met. 
 
 The information obtained will also be used to educate their staff and sales team and helping the business thrive. 
 
@@ -59,6 +59,11 @@ Points to review:
     -Transmission and Owner type depict negative correlation to Price. 
     -Automatic transmissions tend to be more expensive and manuals sell for less according to this model. 
     -The year, mileage, power and number of seats have shown a positive assosiation with sale price. 
+    
+##DEPLOYMENT: 
+-When deploying this model - ensure that the next phase has been managed appropriately. 
+-All values have been processed and there is no need to run additional data or more tests to validate or confirm findings. 
+-Relay the findings directly to Used Car Lot TM for review, clarification, and discussion. 
 
 
 ## MULTIPLE LINEAR REGRESSION INSTRUCTIONS
